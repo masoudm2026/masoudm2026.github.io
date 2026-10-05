@@ -35,3 +35,4 @@ With a strong academic foundation including both a Bachelor's and a Master's deg
 I'm always open to discussing data patterns, agricultural technology (AgTech), or academic research collaborations.
 * **Email:** [moradima@msu.edu](mailto:moradima@msu.edu)
 * **GitHub Profile:** [://github.com](https://://github.com)
+
